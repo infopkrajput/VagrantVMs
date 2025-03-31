@@ -11,3 +11,4 @@ vagrant init ubuntu/focal64 --box-version 20240821.0.1
 vagrant init centos/stream9 --box-version 20250310.0
 vagrant init generic/centos9s --box-version 4.3.12
 
+
